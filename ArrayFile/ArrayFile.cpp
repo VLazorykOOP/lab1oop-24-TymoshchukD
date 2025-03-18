@@ -12,7 +12,7 @@ using namespace std;
 
 typedef double* pDouble;
 /*
-*   ConsoleInputArrayDouble
+*   ConsoleInputArrayDouble gbngfh
 *   
 */
 int ConsoleInputSizeArray(const int sizeMax)
